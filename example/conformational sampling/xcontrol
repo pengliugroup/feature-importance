@@ -1,0 +1,10 @@
+$constrain
+  distance: 112,131,auto
+  distance: 112,190,auto
+  distance: 158,157,auto
+  force constant=1.5
+  reference=ref.xyz
+$metadyn
+  atoms: 1-111,113-130,132-156,159-189,191-197
+$end
+
